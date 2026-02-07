@@ -2,7 +2,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # 🔴 Yahan apna Telegram Bot Token paste karo
-BOT_TOKEN = "PASTE_YOUR_TELEGRAM_BOT_TOKEN_HERE"
+BOT_TOKEN = "8322059364:AAGKMp1Kzm4A1x5xA-izrgHuo-gg43Rbd5g
+"
 
 # User state store karne ke liye
 user_state = {}
